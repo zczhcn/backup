@@ -1,0 +1,6 @@
+DOMAIN,dns.google
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-SUFFIX,dev
+IP-CIDR,8.8.4.4/32,no-resolve
+IP-CIDR,8.8.8.8/32,no-resolve
